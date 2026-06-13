@@ -1,7 +1,7 @@
  🍦 Ice Cream Revenue Predictor
 
 An interactive Streamlit app that predicts daily ice cream revenue based on outside air temperature using a simple linear regression model.  
-Proudly built by Rawah Al-Aqrabi 🇾🇪 to blend machine learning with real-time weather data.
+Proudly built by Rawah Abdulsamad 🇾🇪 to blend machine learning with real-time weather data.
 
  📊 Overview
 
