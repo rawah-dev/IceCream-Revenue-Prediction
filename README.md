@@ -50,4 +50,4 @@ To make predictions more dynamic, the app integrates **OpenWeather API** to fetc
 
 ---
 
-Rawah Al-Aqrabi 🇾🇪 From Yemen | 💻 Passionate about AI, data-driven creativity, and technical identity 📬 GitHub: rawah-dev
+Rawah Abdulsamad 🇾🇪 From Yemen | 💻 Passionate about AI, data-driven creativity, and technical identity 📬 GitHub: rawah-dev
