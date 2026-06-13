@@ -28,8 +28,8 @@ To make predictions more dynamic, the app integrates **OpenWeather API** to fetc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevRawah/Simple-Linear-Regression---Ice-Cream-Revenue-Prediction.git
-   cd Simple-Linear-Regression---Ice-Cream-Revenue-Prediction
+   git clone https://github.com/rawah-dev/IceCream-Revenue-Prediction.git
+   cd IceCream-Revenue-Prediction
    ```
 
 2. Install dependencies:
@@ -50,4 +50,4 @@ To make predictions more dynamic, the app integrates **OpenWeather API** to fetc
 
 ---
 
-Rawah Al-Aqrabi 🇾🇪 From Yemen | 💻 Passionate about AI, data-driven creativity, and technical identity 📬 GitHub: DevRawah
+Rawah Al-Aqrabi 🇾🇪 From Yemen | 💻 Passionate about AI, data-driven creativity, and technical identity 📬 GitHub: rawah-dev
