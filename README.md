@@ -34,14 +34,10 @@ To make predictions more dynamic, the app integrates **OpenWeather API** to fetc
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit pandas numpy matplotlib seaborn scikit-learn requests python-dotenv
    ```
 
-3. Set up environment variables:
-   ```bash
-   cp .env.example .env
-   ```
-   Then edit `.env` and add your OpenWeather API key:
+3. Create a `.env` file in the project root with your OpenWeather API key:
    ```
    OPENWEATHER_API_KEY=your_key_here
    ```

@@ -1,5 +1,9 @@
 # Environment & secrets
 .env
+.env.example
+
+# Local dependency list (not tracked)
+requirements.txt
 
 # Python
 __pycache__/
